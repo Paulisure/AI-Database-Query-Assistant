@@ -2,7 +2,7 @@
 
 A Natural Language to SQL query system that uses OpenAI's GPT-3.5, ChromaDB for vector similarity search, and Streamlit for the user interface. This project demonstrates the integration of Large Language Models (LLMs), vector databases, and text-to-SQL conversion in a practical application.
 
-[Include your video demonstration here]
+https://github.com/user-attachments/assets/bca6fb38-120b-4673-a3a0-d50051027b97
 
 ## Features
 
@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+Paul Loupe
+- GitHub: Paulisure (https://github.com/Paulisure)
+- LinkedIn: (www.linkedin.com/in/paulloupe)
 
